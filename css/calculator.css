@@ -1,0 +1,23 @@
+.row {
+
+}
+
+.btn {
+	width: 48px;
+	height: 48px;
+
+}
+
+.btn:active {
+	
+}
+
+.result {
+
+}
+
+.result:disabled {
+	background-color: white;
+	border: solid 1px #ffe100;
+	font-size: 14px;
+}

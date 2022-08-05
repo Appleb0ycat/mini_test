@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+.container {
+
+}
+
+
+/* 버튼 비활성화 일때 */
+ul {
+
+}
+ul li {
+  color: gray;
+}
+/* 버튼 활성 */
+ul li.on {
+  color: black;
+  cursor: pointer;
+}
+section {
+
+}
+/* 박스 비활성 */
+section article {
+
+}
+/* 박스 활성 */
+section article.on {
+  opacity: 1;
+}
+/* 박스 순서별로 배경색 지정 */
